@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebStoreController/1.0.0": {
+        "dependencies": {
+          "WebStoreModel": "1.0.0",
+          "WebStoreView": "1.0.0"
+        },
+        "runtime": {
+          "WebStoreController.dll": {}
+        }
+      },
+      "WebStoreModel/1.0.0": {
+        "runtime": {
+          "WebStoreModel.dll": {}
+        }
+      },
+      "WebStoreView/1.0.0": {
+        "runtime": {
+          "WebStoreView.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebStoreController/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebStoreModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebStoreView/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

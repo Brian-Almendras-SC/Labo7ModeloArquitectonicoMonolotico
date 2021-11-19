@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebStoreModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/WebStoreModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebStoreModel.dll": {}
+        }
+      },
+      "WebStoreView/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/WebStoreView.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebStoreView.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebStoreModel/1.0.0": {
+      "type": "project",
+      "path": "../WebStoreModel/WebStoreModel.csproj",
+      "msbuildProject": "../WebStoreModel/WebStoreModel.csproj"
+    },
+    "WebStoreView/1.0.0": {
+      "type": "project",
+      "path": "../WebStoreView/WebStoreView.csproj",
+      "msbuildProject": "../WebStoreView/WebStoreView.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "WebStoreModel >= 1.0.0",
+      "WebStoreView >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\brian\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Arquitectura de sotfware\\tarea7\\Labo7ModeloArquitectonicoMonolotico\\ModelMonolithic\\WebStoreController\\WebStoreController.csproj",
+      "projectName": "WebStoreController",
+      "projectPath": "D:\\Arquitectura de sotfware\\tarea7\\Labo7ModeloArquitectonicoMonolotico\\ModelMonolithic\\WebStoreController\\WebStoreController.csproj",
+      "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
+      "outputPath": "D:\\Arquitectura de sotfware\\tarea7\\Labo7ModeloArquitectonicoMonolotico\\ModelMonolithic\\WebStoreController\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\Arquitectura de sotfware\\tarea7\\Labo7ModeloArquitectonicoMonolotico\\ModelMonolithic\\WebStoreModel\\WebStoreModel.csproj": {
+              "projectPath": "D:\\Arquitectura de sotfware\\tarea7\\Labo7ModeloArquitectonicoMonolotico\\ModelMonolithic\\WebStoreModel\\WebStoreModel.csproj"
+            },
+            "D:\\Arquitectura de sotfware\\tarea7\\Labo7ModeloArquitectonicoMonolotico\\ModelMonolithic\\WebStoreView\\WebStoreView.csproj": {
+              "projectPath": "D:\\Arquitectura de sotfware\\tarea7\\Labo7ModeloArquitectonicoMonolotico\\ModelMonolithic\\WebStoreView\\WebStoreView.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

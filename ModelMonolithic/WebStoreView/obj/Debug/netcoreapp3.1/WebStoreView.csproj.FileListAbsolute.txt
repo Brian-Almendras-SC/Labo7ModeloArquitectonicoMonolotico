@@ -1,0 +1,14 @@
+D:\Arquitectura de sotfware\tarea7\Labo7ModeloArquitectonicoMonolotico\ModelMonolithic\WebStoreView\bin\Debug\netcoreapp3.1\WebStoreView.exe
+D:\Arquitectura de sotfware\tarea7\Labo7ModeloArquitectonicoMonolotico\ModelMonolithic\WebStoreView\bin\Debug\netcoreapp3.1\WebStoreView.deps.json
+D:\Arquitectura de sotfware\tarea7\Labo7ModeloArquitectonicoMonolotico\ModelMonolithic\WebStoreView\bin\Debug\netcoreapp3.1\WebStoreView.runtimeconfig.json
+D:\Arquitectura de sotfware\tarea7\Labo7ModeloArquitectonicoMonolotico\ModelMonolithic\WebStoreView\bin\Debug\netcoreapp3.1\WebStoreView.runtimeconfig.dev.json
+D:\Arquitectura de sotfware\tarea7\Labo7ModeloArquitectonicoMonolotico\ModelMonolithic\WebStoreView\bin\Debug\netcoreapp3.1\WebStoreView.dll
+D:\Arquitectura de sotfware\tarea7\Labo7ModeloArquitectonicoMonolotico\ModelMonolithic\WebStoreView\bin\Debug\netcoreapp3.1\WebStoreView.pdb
+D:\Arquitectura de sotfware\tarea7\Labo7ModeloArquitectonicoMonolotico\ModelMonolithic\WebStoreView\obj\Debug\netcoreapp3.1\WebStoreView.csproj.AssemblyReference.cache
+D:\Arquitectura de sotfware\tarea7\Labo7ModeloArquitectonicoMonolotico\ModelMonolithic\WebStoreView\obj\Debug\netcoreapp3.1\WebStoreView.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de sotfware\tarea7\Labo7ModeloArquitectonicoMonolotico\ModelMonolithic\WebStoreView\obj\Debug\netcoreapp3.1\WebStoreView.AssemblyInfoInputs.cache
+D:\Arquitectura de sotfware\tarea7\Labo7ModeloArquitectonicoMonolotico\ModelMonolithic\WebStoreView\obj\Debug\netcoreapp3.1\WebStoreView.AssemblyInfo.cs
+D:\Arquitectura de sotfware\tarea7\Labo7ModeloArquitectonicoMonolotico\ModelMonolithic\WebStoreView\obj\Debug\netcoreapp3.1\WebStoreView.csproj.CoreCompileInputs.cache
+D:\Arquitectura de sotfware\tarea7\Labo7ModeloArquitectonicoMonolotico\ModelMonolithic\WebStoreView\obj\Debug\netcoreapp3.1\WebStoreView.dll
+D:\Arquitectura de sotfware\tarea7\Labo7ModeloArquitectonicoMonolotico\ModelMonolithic\WebStoreView\obj\Debug\netcoreapp3.1\WebStoreView.pdb
+D:\Arquitectura de sotfware\tarea7\Labo7ModeloArquitectonicoMonolotico\ModelMonolithic\WebStoreView\obj\Debug\netcoreapp3.1\WebStoreView.genruntimeconfig.cache
